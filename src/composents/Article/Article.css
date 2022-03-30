@@ -1,0 +1,55 @@
+.article {
+    background-color: whitesmoke;
+    padding: 60px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.article h2 {
+    margin-bottom: 10px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.article-description {
+    padding-bottom: 50px;
+}
+
+.article-list {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.article-message {
+    margin: 60px 0;
+}
+
+.article-banner {
+    color: deeppink;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.article-description-2 {
+    padding: 20px 0;
+    width: 600px;
+    margin: auto;
+}
+
+.sign-in {
+    margin: auto;
+    color: whitesmoke;
+    width: 120px;
+    font-size: 20px;
+    background-color: lightseagreen;
+    padding: 10px 20px;
+    border-radius: 25px;
+    border: none;
+}
+
+.sign-in:hover {
+    cursor: pointer;
+    box-shadow: #282c34 0 0 5px;
+}

@@ -1,0 +1,36 @@
+.plan {
+    min-width: 400px;
+}
+
+.plan, .plan-title, .plan-price {
+    border: darkgray solid 1px;
+}
+
+.plan-title {
+    background-color: darkgray;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.plan-price {
+    padding: 30px 30px 40px 30px;
+    background-color: lightgray;
+}
+
+.plan-price-price {
+    font-size: 80px;
+}
+
+.plan-list {
+    padding: 25px;
+}
+
+.plan-list ul li {
+    padding: 10px 0;
+    list-style: none;
+}
+
+.red {
+    color: deeppink;
+}

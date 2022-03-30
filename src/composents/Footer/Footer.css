@@ -1,0 +1,12 @@
+footer {
+    color: whitesmoke;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: steelblue;
+}
+
+footer div {
+    display: flex;
+    align-items: center;
+}

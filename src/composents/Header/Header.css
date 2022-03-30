@@ -1,0 +1,22 @@
+header {
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.header-title, .header-nav {
+    align-items: center;
+    display: flex;
+}
+
+.header-nav li {
+    list-style: none;
+    margin-right: 10px;
+}
+
+.header-title {
+    font-size: 25px;
+    font-weight: bold;
+}
